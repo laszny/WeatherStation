@@ -19,6 +19,7 @@ In conclusion, the weather station based on Raspberry Pi, Arduino, DHT11 and PMS
 
 ![App Screenshot](https://raw.githubusercontent.com/laszny/WeatherStation/9922c95aa9f72884e94b91114be06152fcafeb0d/img/Obraz1.jpg)
 
+![App Screenshot](https://raw.githubusercontent.com/laszny/WeatherStation/9922c95aa9f72884e94b91114be06152fcafeb0d/img/darkmode_main.png)
 
 ## Mobile view and Dark Mode
 
